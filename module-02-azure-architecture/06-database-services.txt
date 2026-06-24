@@ -1,0 +1,13 @@
+Azure Database Services
+-----------------------
+Azure SQL Database
+Fully managed relational database based on SQL Server. Handles backups, patching, and scaling.
+
+Cosmos DB
+Globally distributed NoSQL database with low latency and multiple APIs (SQL, MongoDB, Cassandra, Gremlin, Table).
+
+Azure Database for PostgreSQL/MySQL
+Managed open-source relational databases.
+
+Why databases matter
+Applications need reliable, scalable data storage and retrieval.
