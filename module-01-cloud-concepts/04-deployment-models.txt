@@ -1,0 +1,15 @@
+Deployment Models
+-----------------
+Public Cloud
+Shared infrastructure, pay‑as‑you‑go, no hardware ownership.
+
+Private Cloud
+Dedicated environment for one organization, more control.
+
+Hybrid Cloud
+Mix of on‑prem and cloud. Useful for gradual migration or regulatory requirements.
+
+Key points
+- Public = most flexible
+- Private = most control
+- Hybrid = best of both worlds
