@@ -1,0 +1,16 @@
+Azure Organization Structure
+----------------------------
+Resource Groups
+Logical containers that hold Azure resources. Resources must belong to exactly one resource group.
+
+Subscriptions
+A billing boundary. Subscriptions contain resource groups and define spending limits and access control.
+
+Management Groups
+Used to organize multiple subscriptions into a hierarchy. Policies and RBAC can be applied at this level.
+
+Hierarchy Example
+Management Group → Subscription → Resource Group → Resources
+
+Why it matters
+This structure helps with governance, cost control, and organization.
