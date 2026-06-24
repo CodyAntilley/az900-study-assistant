@@ -1,0 +1,16 @@
+Cloud Service Models
+--------------------
+IaaS
+You manage OS, apps, and data. Azure manages hardware.
+Example: Virtual Machines.
+
+PaaS
+You manage apps and data. Azure manages OS and runtime.
+Example: App Service.
+
+SaaS
+Fully managed applications delivered over the internet.
+Example: Microsoft 365.
+
+Why it matters
+Each model changes how much control and responsibility you have.
