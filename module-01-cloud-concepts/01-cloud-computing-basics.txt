@@ -1,0 +1,17 @@
+Cloud Computing Basics
+----------------------
+Cloud computing delivers computing services—servers, storage, networking, databases, analytics, and AI—over the internet. Instead of owning hardware, you rent resources from a cloud provider like Azure.
+
+Benefits
+- Cost savings
+- High availability
+- Scalability
+- Global reach
+- Elasticity
+- Agility
+
+Why it matters
+Cloud computing removes the need for physical infrastructure and allows organizations to scale quickly.
+
+Example
+Hosting a website in Azure instead of buying servers.
