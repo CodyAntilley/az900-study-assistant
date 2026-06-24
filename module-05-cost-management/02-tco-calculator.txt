@@ -1,0 +1,18 @@
+Total Cost of Ownership (TCO) Calculator
+----------------------------------------
+The TCO Calculator compares the cost of running workloads on-premises vs. in Azure.
+
+What it includes
+- Hardware costs
+- Software licensing
+- Electricity and cooling
+- IT labor
+- Datacenter space
+
+Benefits
+- Shows long-term savings of cloud migration
+- Helps justify cloud adoption to leadership
+- Highlights operational efficiencies
+
+Why it matters
+Organizations use TCO to understand the financial impact of moving to Azure.
