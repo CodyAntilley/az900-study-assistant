@@ -1,0 +1,25 @@
+Azure Security Tools
+--------------------
+Microsoft Defender for Cloud
+Provides security posture management and threat protection across Azure, hybrid, and multi-cloud environments.
+
+Key Vault
+Secure storage for:
+- Secrets
+- Keys
+- Certificates
+
+Network Security Groups (NSG)
+Allow/deny inbound and outbound traffic at the subnet or NIC level.
+
+Azure Firewall
+A managed, cloud-based network security service with:
+- Stateful packet inspection
+- Threat intelligence
+- Application rules
+
+DDoS Protection
+Protects applications from distributed denial-of-service attacks.
+
+Why it matters
+These tools help secure data, applications, and networks in Azure.
