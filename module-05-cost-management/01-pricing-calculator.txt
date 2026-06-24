@@ -1,0 +1,17 @@
+Azure Pricing Calculator
+------------------------
+The Azure Pricing Calculator helps estimate the cost of Azure services before deployment.
+
+What it does
+- Lets you configure services (VM size, storage type, bandwidth)
+- Provides monthly cost estimates
+- Allows comparison of different configurations
+- Helps plan budgets before provisioning resources
+
+Use cases
+- Estimating VM costs
+- Comparing storage redundancy options
+- Forecasting monthly cloud spend
+
+Why it matters
+It prevents unexpected costs by allowing you to model pricing ahead of time.
