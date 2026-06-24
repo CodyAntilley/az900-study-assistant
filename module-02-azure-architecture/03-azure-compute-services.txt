@@ -1,0 +1,16 @@
+Azure Compute Services
+----------------------
+Virtual Machines (IaaS)
+Full control of OS and applications. You manage updates, patches, and configuration.
+
+App Service (PaaS)
+Host web apps, APIs, and mobile backends without managing servers. Supports .NET, Node.js, Python, Java.
+
+Azure Functions (Serverless)
+Event-driven compute. Runs code only when triggered. You pay only for execution time.
+
+Azure Kubernetes Service (AKS)
+Managed Kubernetes for containerized applications.
+
+Why compute matters
+Compute is the backbone of running applications in Azure.
