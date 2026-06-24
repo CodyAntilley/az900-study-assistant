@@ -1,0 +1,22 @@
+Azure Storage Services
+----------------------
+Blob Storage
+Object storage for unstructured data like images, videos, logs, and backups.
+
+File Storage
+Fully managed file shares using SMB protocol.
+
+Queue Storage
+Message-based communication between application components.
+
+Table Storage
+NoSQL key-value store for structured, non-relational data.
+
+Redundancy Options
+- LRS (Locally Redundant Storage)
+- ZRS (Zone Redundant Storage)
+- GRS (Geo-Redundant Storage)
+- RA-GRS (Read-Access Geo-Redundant Storage)
+
+Why storage matters
+Reliable, scalable data storage is essential for cloud applications.
