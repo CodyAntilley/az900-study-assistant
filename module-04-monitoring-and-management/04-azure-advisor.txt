@@ -1,0 +1,18 @@
+Azure Advisor
+-------------
+Azure Advisor provides personalized recommendations to optimize your Azure environment.
+
+Recommendation categories
+- Cost: Reduce unnecessary spending
+- Security: Improve security posture
+- Reliability: Increase availability
+- Performance: Improve speed and efficiency
+- Operational Excellence: Best practices for management
+
+Examples
+- Resize or shut down underutilized VMs
+- Enable MFA for admin accounts
+- Add redundancy for critical workloads
+
+Why it matters
+Azure Advisor helps you follow best practices and optimize your cloud environment.
