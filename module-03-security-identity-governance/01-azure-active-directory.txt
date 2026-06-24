@@ -1,0 +1,20 @@
+Azure Active Directory (Azure AD / Entra ID)
+--------------------------------------------
+Azure AD is Microsoft’s cloud-based identity and access management service.
+
+What it provides
+- Authentication (sign-in)
+- Authorization (permissions)
+- Single Sign-On (SSO)
+- Multi-Factor Authentication (MFA)
+- Conditional Access
+- Identity protection
+
+Key concepts
+- Users: People or service accounts
+- Groups: Collections of users for easier access management
+- Service Principals: Identities for apps and automation
+- Tenants: The Azure AD instance for your organization
+
+Why it matters
+Identity is the foundation of cloud security. Azure AD controls who can access what.
