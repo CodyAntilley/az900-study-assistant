@@ -1,0 +1,22 @@
+Azure Networking Basics
+-----------------------
+Virtual Network (VNet)
+A private network in Azure. You define IP ranges, subnets, and routing.
+
+Subnets
+Logical segments within a VNet. Used to isolate workloads.
+
+VPN Gateway
+Secure, encrypted connection between on-premises networks and Azure.
+
+ExpressRoute
+Private, dedicated connection to Azure with higher reliability and speed.
+
+Load Balancer
+Distributes traffic across multiple VMs at Layer 4 (TCP/UDP).
+
+Application Gateway
+Layer 7 load balancer with Web Application Firewall (WAF).
+
+Why networking matters
+Networking connects all Azure resources securely and efficiently.
