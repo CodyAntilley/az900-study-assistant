@@ -1,0 +1,10 @@
+CapEx vs OpEx
+-------------
+CapEx (Capital Expenditure) is upfront spending on physical hardware.
+OpEx (Operational Expenditure) is pay‑as‑you‑go spending on cloud resources.
+
+Cloud shifts companies from CapEx to OpEx, reducing risk and increasing flexibility.
+
+Examples
+- Buying servers = CapEx
+- Using Azure VMs = OpEx
