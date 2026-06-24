@@ -1,0 +1,11 @@
+Azure Service Health
+--------------------
+Azure Service Health provides personalized alerts and guidance when Azure service issues affect your resources.
+
+Components
+- Service Issues: Outages or disruptions
+- Planned Maintenance: Scheduled updates that may impact services
+- Health Advisories: Important notices (e.g., security updates)
+
+Why it matters
+Service Health helps you stay informed about Azure-wide issues that could impact your applications.
