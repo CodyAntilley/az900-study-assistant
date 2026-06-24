@@ -1,0 +1,16 @@
+Azure Monitor
+-------------
+Azure Monitor is the central platform for collecting, analyzing, and acting on telemetry from your Azure resources.
+
+What it collects
+- Metrics (numerical values, performance counters)
+- Logs (activity logs, diagnostic logs)
+- Alerts (triggered when conditions are met)
+
+Key components
+- Metrics Explorer: Visualize performance data
+- Log Analytics: Query and analyze logs using Kusto Query Language (KQL)
+- Alerts: Notify you when thresholds are crossed
+
+Why it matters
+Azure Monitor helps you understand the health, performance, and usage of your applications and infrastructure.
