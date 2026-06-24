@@ -1,0 +1,21 @@
+Regions and Availability Zones
+------------------------------
+Regions
+A region is a geographic location containing one or more Azure datacenters. Examples: East US, West Europe, Southeast Asia.
+
+Why regions matter
+- Performance (closer to users)
+- Compliance (data residency)
+- Service availability
+- Pricing differences
+
+Availability Zones
+Physically separate datacenters within a region. Each zone has independent power, cooling, and networking.
+
+Why zones matter
+- High availability
+- Protection from datacenter failures
+- Zone-redundant services (ZRS)
+
+Example
+East US has multiple availability zones for redundancy.
