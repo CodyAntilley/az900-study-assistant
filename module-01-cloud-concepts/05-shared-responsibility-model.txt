@@ -1,0 +1,20 @@
+Shared Responsibility Model
+---------------------------
+Azure handles
+- Physical datacenter security
+- Hardware
+- Networking
+- Hypervisor
+
+Customer handles
+- Data
+- Identity
+- Access
+- Endpoints
+
+Why it matters
+Responsibility shifts depending on IaaS, PaaS, or SaaS.
+
+Example
+Azure secures the building.
+You secure your passwords.
