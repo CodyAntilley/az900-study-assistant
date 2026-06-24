@@ -1,0 +1,26 @@
+Authentication and Access
+-------------------------
+Authentication
+Verifies identity. Common methods:
+- Password
+- MFA (text, app, biometrics)
+- Certificate-based authentication
+
+Authorization
+Controls what a user can do after authentication.
+
+Role-Based Access Control (RBAC)
+Assigns permissions to users, groups, or service principals.
+
+Examples of RBAC roles
+- Owner: Full access
+- Contributor: Can modify resources but not assign roles
+- Reader: View-only access
+
+Conditional Access
+Policy-based access control. Examples:
+- Require MFA for admin roles
+- Block access from risky locations
+
+Why it matters
+Strong authentication and access control prevent unauthorized access.
