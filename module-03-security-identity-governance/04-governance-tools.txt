@@ -1,0 +1,26 @@
+Azure Governance Tools
+----------------------
+Azure Policy
+Enforces rules and compliance across resources.
+Examples:
+- Allowed locations
+- Enforce tagging
+- Restrict VM sizes
+
+Resource Locks
+Prevent accidental deletion or modification.
+Types:
+- ReadOnly
+- Delete
+
+Management Groups
+Organize multiple subscriptions into a hierarchy for governance.
+
+Blueprints (Legacy)
+Package policies, RBAC, and templates for consistent deployments.
+
+Tags
+Key-value pairs used for organization, cost tracking, and automation.
+
+Why governance matters
+Ensures consistency, compliance, and control across large environments.
