@@ -1,0 +1,18 @@
+Azure Cost Factors
+------------------
+Several factors influence the cost of Azure services.
+
+Key cost drivers
+- Resource type (VMs, storage, databases)
+- Region (prices vary globally)
+- Data transfer (egress costs)
+- Storage redundancy (LRS, ZRS, GRS)
+- Reservations (1-year or 3-year discounts)
+- Spot pricing (unused capacity at deep discounts)
+
+Examples
+- Running a VM in East US may cost less than in Japan East
+- GRS storage costs more than LRS due to geo-replication
+
+Why it matters
+Understanding cost factors helps optimize cloud spending.
