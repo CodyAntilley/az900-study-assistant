@@ -1,0 +1,19 @@
+Application Insights
+--------------------
+Application Insights is an APM (Application Performance Monitoring) service for monitoring live applications.
+
+What it provides
+- Request tracking
+- Dependency tracking
+- Exception monitoring
+- Performance metrics
+- User behavior analytics
+
+Use cases
+- Detect slow response times
+- Identify failing components
+- Monitor app usage patterns
+- Diagnose errors in real time
+
+Why it matters
+It helps developers improve application performance and reliability.
