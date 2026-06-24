@@ -1,0 +1,20 @@
+Budgets and Alerts
+------------------
+Azure Cost Management allows you to set budgets and receive alerts when spending approaches limits.
+
+Budgets
+- Define monthly, quarterly, or annual spending limits
+- Track actual vs. forecasted costs
+
+Alerts
+- Trigger notifications at thresholds (e.g., 80%, 90%, 100%)
+- Help prevent cost overruns
+- Can notify individuals or groups
+
+Use cases
+- Preventing unexpected charges
+- Monitoring team or project spending
+- Enforcing financial governance
+
+Why it matters
+Budgets and alerts help maintain control over cloud costs.
